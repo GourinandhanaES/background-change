@@ -1,8 +1,17 @@
-# React + Vite
+# Background Changing App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Description**:  
+The Background Changing Theme App is a fun and interactive app built with React that allows users to change the background theme of the page with just a click. It provides multiple themes to choose from, enhancing the visual experience while being simple and responsive.
 
-Currently, two official plugins are available:
+**Tech Stack**: React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Features**:
+- Users can change the background theme by clicking buttons.
+- Multiple themes to choose from, providing a dynamic visual experience.
+- Fully responsive and mobile-friendly design.
+- Simple and clean user interface with smooth transitions.
+
+**Deployed Link**:  
+You can check out the live version of the Background Changing Theme App here: [Background Theme App Live](https://background-change-chi.vercel.app/).
+
+![Background Changing Theme App Screenshot](./bgchange-screenshot.jpeg)
